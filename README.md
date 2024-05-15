@@ -27,8 +27,8 @@ It was a very intresting projext, not too challenging.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/sammie-create/qr-code-component-main)
+- Live Site URL: (https://sammie-create.github.io/qr-code-component-main/)
 
 ## My process
 
