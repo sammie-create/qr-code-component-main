@@ -62,12 +62,13 @@ figcaption {
 
 /* Responsive Design */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 425px) {
   body {
     padding: 2.5rem;
   }
   .card {
     padding: 1.5rem;
+    margin-bottom: 2rem;
   }
   .card-img {
     margin-bottom: 1rem;
@@ -75,9 +76,12 @@ figcaption {
   .card-text {
     padding: 1rem;
   }
+  .attribution {
+    font-size: 1.1rem;
+  }
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 425px) {
   body {
     font-size: 1.2rem;
   }
